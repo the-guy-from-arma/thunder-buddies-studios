@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Thunder Buddies Studios",
+  "short_name": "TBS Studio",
+  "description": "Games, platforms, and custom development from Thunder Buddies Studios.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#101110",
+  "theme_color": "#101110",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Thunder Buddies Studios emblem</title>
+  <desc id="desc">A tactical shield emblem with TBS lettering and a lightning mark.</desc>
+  <defs>
+    <linearGradient id="metal" x1="36" y1="24" x2="220" y2="232" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0c86e"/>
+      <stop offset="0.46" stop-color="#9aa36b"/>
+      <stop offset="1" stop-color="#6b7752"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="52" y1="44" x2="204" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1b2118"/>
+      <stop offset="1" stop-color="#070907"/>
+    </linearGradient>
+  </defs>
+  <path fill="#050705" d="M128 10 223 48v71c0 61-38 104-95 127C71 223 33 180 33 119V48L128 10Z"/>
+  <path fill="url(#metal)" d="M128 22 211 55v63c0 53-32 90-83 112-51-22-83-59-83-112V55l83-33Z"/>
+  <path fill="url(#dark)" d="M128 38 196 65v51c0 43-25 73-68 93-43-20-68-50-68-93V65l68-27Z"/>
+  <path fill="#e0b65f" d="m140 49-49 82h33l-13 70 54-91h-34l9-61Z"/>
+  <path fill="#f4f5ef" d="M79 86h37v14h-11v58H90v-58H79V86Zm50 0h20c17 0 28 8 28 22 0 8-4 15-11 18 9 3 15 11 15 22 0 16-12 25-31 25h-21V86Zm15 14v20h6c8 0 12-4 12-10 0-7-4-10-13-10h-5Zm0 33v26h8c9 0 14-5 14-13 0-9-5-13-15-13h-7Z"/>
+  <path fill="#f4f5ef" d="M57 181h142v12H57z"/>
+</svg>
